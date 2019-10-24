@@ -45,11 +45,14 @@ h6 {
     font-weight: 700;
     letter-spacing: 1px;
 }
-
+.rightbox .aboutul{
+    text-align: left;
+}
 p {
     margin: 0 0 20px;
     font-size: 16px;
     line-height: 1.6em;
+    font-family: "Calibri", sans-serif;
 }
 
 p.lead {
